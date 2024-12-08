@@ -1,0 +1,7 @@
+Install openai
+Install transformers
+Install os
+
+In order to switch between models
+Openai: type "switch to openai"
+HuggingFace: type "switch to huggingface"
